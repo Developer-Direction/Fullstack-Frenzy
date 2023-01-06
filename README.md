@@ -22,4 +22,4 @@ This is a 5-week bootcamp that covers fullstack development using React, Express
 ## Week 5
 - Sunday: Project workshop - students continue working on their projects.
 - Tuesday: Project presentations - students present their projects to the class.
-- Thursday: Graduation and next steps (job search, continuing education).
+- Thursday: Graduation and next steps (META webinar: job search, continuing education).
