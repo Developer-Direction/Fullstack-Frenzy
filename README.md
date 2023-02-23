@@ -4,9 +4,9 @@ Fullstack Frenzy with React, Express, and MySQL
 This is a 5-week bootcamp that covers fullstack development using React, Express, and MySQL.
 
 ## Week 1
-- **Sunday:** Introduction to fullstack development and the technologies used (HTML, CSS, JavaScript, React, Express, MySQL). Setting up a development environment.
-- **Tuesday:** React fundamentals (JSX, components, state, props). Building a simple React app.
-- **Thursday:** Express fundamentals (routing, middleware, working with a database). Building a simple Express API.
+- **Tuesday (02/21/23):** Introduction to fullstack development and the technologies used (HTML, CSS, JavaScript, React, Express, MySQL). Setting up a development environment.
+- **Thursday:** React fundamentals (JSX, components, state, props). Building a simple React app.
+- **Sunday:** Express fundamentals (routing, middleware, working with a database). Building a simple Express API.
 ## Week 2
 - **Sunday:** MySQL fundamentals (database design, SQL syntax, queries). Setting up a MySQL database.
 - **Tuesday:** More advanced React topics (lifecycle methods, handling events, working with forms). Building a more complex React app.
