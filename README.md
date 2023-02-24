@@ -10,7 +10,7 @@ This is a 5-week bootcamp that covers fullstack development using React, Express
      * Git (for Windows users): https://gitforwindows.org/
 
   
-- **Thursday:** React fundamentals (JSX, components, state, props). Building a simple React app.
+- **Thursday (02/23/23):** React fundamentals (JSX, components, state, props). Building a simple React app.
 - **Sunday:** Express fundamentals (routing, middleware, working with a database). Building a simple Express API.
 ## Week 2
 - **Sunday:** MySQL fundamentals (database design, SQL syntax, queries). Setting up a MySQL database.
