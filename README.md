@@ -5,9 +5,9 @@ This is a 5-week bootcamp that covers fullstack development using React, Express
 
 ## Week 1
 - **Tuesday (02/21/23):** Introduction to fullstack development and the technologies used (HTML, CSS, JavaScript, React, Express, MySQL). Setting up a development environment.
-      - VS Code: https://code.visualstudio.com/download
-      - Node: https://nodejs.org/en/download/
-      - Git (for Windows users): https://gitforwindows.org/
+      * VS Code: https://code.visualstudio.com/download
+      * Node: https://nodejs.org/en/download/
+      * Git (for Windows users): https://gitforwindows.org/
 
   
 - **Thursday:** React fundamentals (JSX, components, state, props). Building a simple React app.
