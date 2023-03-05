@@ -16,6 +16,7 @@ This is a 5-week bootcamp that covers fullstack development using React, Express
 ## Week 2
 
 - **Thursday (03/02/23):** MySQL fundamentals (database design, SQL syntax, queries). Setting up a MySQL database.
+    * Download MySQL: https://www.mysql.com/downloads/
 
 - **Tuesday:** More advanced React topics (lifecycle methods, handling events, working with forms). Building a more complex React app.
 - **Thursday:** More advanced Express topics (authentication, deployment). Building a more complex Express API.
